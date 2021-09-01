@@ -1,4 +1,4 @@
-# Hexo Configuration
+# 3671 Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -7,8 +7,8 @@ title: 3671
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: CXJ
+language: cn
 timezone: ''
 
 # URL
